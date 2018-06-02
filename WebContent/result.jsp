@@ -31,7 +31,7 @@
 	
 	h1 {
 		text-align: center;
-		border-bottom: silver 1px dotted;
+		border-bottom: silver 1px dashed;
 		font-family: "맑은 고딕";
 	}
 	
