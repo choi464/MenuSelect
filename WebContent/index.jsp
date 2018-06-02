@@ -7,6 +7,6 @@
 <title>메인 페이지</title>
 </head>
 <body>
-Hello World
+Hello Worldr
 </body>
 </html>
