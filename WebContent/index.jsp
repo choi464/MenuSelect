@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>메인 페이지</title>
+<title>초기 페이지</title>
 </head>
 <body>
-Hello Worldr
+<script>
+	location.href = "main.jsp";
+</script>
 </body>
 </html>
